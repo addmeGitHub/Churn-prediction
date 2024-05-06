@@ -1,5 +1,6 @@
 
-![Alt text for image](Photo_credit.webp)
+![Alt text fo![Photo_credict](https://github.com/addmeGitHub/Churn-prediction/assets/157882773/cb8e43e0-5eec-4eea-804b-2ea3abe62c19)
+r image](Photo_credit.webp)
 
 # Project Title: Credit Card Customer Attrition Prediction
 
